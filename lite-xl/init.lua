@@ -22,8 +22,8 @@ style.selection = { common.color "#b9b5b020" }
 style.line_number = { common.color "#b9b5b060" }
 style.line_number2 = { common.color "#b9b5b0d0" }
 style.line_highlight = { common.color "#0a1212" }
-style.scrollbar = { common.color "#b9b5b060" }
-style.scrollbar2 = { common.color "#b9b5b000" }
+style.scrollbar = { common.color "#b9b5b000" }
+style.scrollbar2 = { common.color "#b9b5b080" }
 style.scrollbar_track = { common.color "#0a1212" }
 
 style.nagbar = { common.color "#d8726f80" }
