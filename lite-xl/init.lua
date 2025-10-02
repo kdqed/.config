@@ -9,6 +9,8 @@ local style = require "core.style"
 local common = require "core.common"
 
 ------------------------------ Themes ----------------------------------------
+system.set_window_opacity(0.97)
+
 style.background = { common.color "#0a1212" }
 style.background2 = { common.color "#0a1212" }
 style.background3 = { common.color "#1e2524" }
